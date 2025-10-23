@@ -5,7 +5,7 @@ This is a simple static website that replicates the "CodeYogi" homepage. This pr
 
 This project was created to learn and practice Tailwind's utility-first classes, using the Tailwind CLI setup.
 
-![image]img width="1916" height="920" alt="Image" src="https://github.com/user-attachments/assets/ec28eb74-692b-484c-95de-93b1ca88cac0
+![image](https://github.com/user-attachments/assets/ec28eb74-692b-484c-95de-93b1ca88cac0)
 
 Features:-
 
